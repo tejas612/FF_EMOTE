@@ -5,6 +5,11 @@
       "clickinterval" : "2",  
       "showads" : "Show",  
     
+      "showAppOpen": "Show",
+      "showFirstStart": "Show",
+      "showSplashInterstitial": "Show",
+      "ShowFirstUrlDirect": "https://www.atmeplay.com/?utm_source=CSolution2k91u&utm_medium=CSolution2k91u",
+    
       "MoreApps" : "https://sites.google.com/view/orbutvpn/policy",  
     
       "email" : "reach@flawsometechnology.com",
@@ -29,11 +34,6 @@
       "GamesKitesID": "https://www.atmeplay.com/?utm_source=CSolution2k91u&utm_medium=CSolution2k91u",
       "PredchmpId": "https://www.atmeplay.com/?utm_source=CSolution2k91u&utm_medium=CSolution2k91u",
       "AtmeId": "https://www.atmeplay.com/?utm_source=CSolution2k91u&utm_medium=CSolution2k91u",
-      
-      "showAppOpen": "Show",
-      "showFirstStart": "Show",
-      "showSplashInterstitial": "Show",
-      "ShowFirstUrlDirect": "https://www.atmeplay.com/?utm_source=CSolution2k91u&utm_medium=CSolution2k91u",
       
       "AppBanner": 
       [
