@@ -1,12 +1,12 @@
 {
   "data" :  {
       "AD_Priority_Google/URL" : "Show",
+      "showFirstStart": "Show",
     
       "clickinterval" : "100",  
       "showads" : "Gone",  
     
       "showAppOpen": "Show",
-      "showFirstStart": "Show",
       "showSplashInterstitial": "Show",
       "ShowFirstUrlDirect": "https://www.atmeplay.com/?utm_source=CSolution2k91u&utm_medium=CSolution2k91u",
     
