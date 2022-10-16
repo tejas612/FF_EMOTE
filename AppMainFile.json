@@ -2,7 +2,7 @@
   "data" :  {
       "AD_Priority_Google/URL" : "Gone",
     
-      "clickinterval" : "2000",  
+      "clickinterval" : "100",  
       "showads" : "Gone",  
     
       "showAppOpen": "Show",
