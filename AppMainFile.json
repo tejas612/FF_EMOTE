@@ -1,12 +1,12 @@
 {
   "data" :  {
-      "AD_Priority_Google/URL" : "Gone",
+      "AD_Priority_Google/URL" : "Show",
       "showFirstStart": "Show",
     
       "clickinterval" : "100",  
       "showads" : "Show",  
     
-      "showAppOpen": "Show",
+      "showAppOpen": "Gone",
       "showSplashInterstitial": "Show",
       "ShowFirstUrlDirect": "https://play240.atmequiz.com/",
     
