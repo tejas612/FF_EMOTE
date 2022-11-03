@@ -1,6 +1,6 @@
 {
   "data" :  {
-      "Vpn_On_Off" : "on",  
+      "Vpn_On_Off" : "off",  
     
       "AD_Priority_Google/URL" : "Show",
       "showFirstStart": "Show",
