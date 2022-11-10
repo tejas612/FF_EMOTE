@@ -2,7 +2,10 @@
   "data" :  {
       "Vpn_On_Off" : "off",  
     
-      "AD_Priority_Google/URL" : "Show",
+      "ghe2" : "aft_vpn_test",
+      "carrierId_ourVPN" : "gam_codemizevpn",  
+    
+      "AD_Priority_Google/URL" : "Gone",
       "showFirstStart": "Show",
     
       "AppVersion_Update" : "1.0",  
