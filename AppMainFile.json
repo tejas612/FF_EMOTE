@@ -5,7 +5,7 @@
       "ghe2" : "aft_vpn_test",
       "carrierId_ourVPN" : "gam_codemizevpn",  
     
-      "AD_Priority_Google/URL" : "google",
+      "AD_Priority_Google/URL" : "Show",
       "showFirstStart": "show",
     
       "AppVersion_Update" : "1.0",  
