@@ -1,6 +1,6 @@
 {
   "data" :  {
-      "Vpn_On_Off" : "off",  
+      "Vpn_On_Off" : "on",  
     
       "ghe2" : "aft_vpn_test",
       "carrierId_ourVPN" : "gam_codemizevpn",  
